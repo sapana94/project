@@ -1,0 +1,224 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  /* border: 1px solid red; */
+  /* background-color: aquamarine; */
+}
+.div1 {
+  height: 400px;
+  width: 100vw;
+  border: 1px solid black;
+  background-image: url("./top-6-eLearning-trends-of-2019.webp");
+}
+.div2 {
+  height: 100px;
+  width: 90vw;
+  border: 1px solid brown;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.div3 {
+  height: 80px;
+  width: 30vw;
+  border: 1px solid red;
+  margin-top: 10px;
+}
+.div4 {
+  height: 60px;
+  width: 50vw;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  color: white;
+  margin-top: 20px;
+}
+h1 {
+  text-align: center;
+  padding-top: 160px;
+}
+.div5 {
+  height: 150vh;
+  width: 100vw;
+  border: 3px solid green;
+  display: flex;
+  justify-content: space-around;
+}
+.div6 {
+  height: 400px;
+  width: 40vw;
+  border: 1px solid red;
+  margin-top: 20px;
+}
+.div7 {
+  height: 875px;
+  width: 60vw;
+  border: 1px solid black;
+  margin-top: 20px;
+}
+.img1 {
+  height: 400px;
+  width: 40vw;
+}
+.div8 {
+  height: 23vh;
+  width: 60vw;
+  border: 1px solid red;
+}
+.div9 {
+  height: 33vh;
+  width: 60vw;
+  border: 1px solid brown;
+  margin-top: 10px;
+}
+.div10 {
+  height: 16vh;
+  width: 60vw;
+  border: 1px solid red;
+  margin-top: 10px;
+}
+.div11 {
+  height: 10vh;
+  width: 60vw;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+.div12 {
+  height: 10vh;
+  width: 60vw;
+  border: 1px solid red;
+}
+.div13 {
+  height: 19vh;
+  width: 60vw;
+  border: 1px solid blue;
+}
+.p1 {
+  font-size: 19px;
+}
+.p2 {
+  font-size: 18px;
+}
+.p3 {
+  font-size: 19px;
+}
+.p4 {
+  font-size: 19px;
+}
+.p5 {
+  font-size: 19px;
+}
+.p6{
+    font-size: 19px;
+}
+.div14{
+    height: 17vh;
+    width:100vw ;
+    border: 1px solid purple;
+    display: flex;
+}
+.div15{
+    height: 100px;
+    width: 35vw;
+    border: 1px solid red;
+    padding-left: 10px;
+    background-color: rgba(0, 0, 0, 0.886);
+    
+}
+.div16{
+    height: 100px;
+    width: 50vw;
+    border: 1px solid green;
+    background-color: rgba(128, 128, 128, 0.658);
+}
+.div17{
+    height: 100px;
+    width: 15vw;
+    border: 1px solid brown;
+    background-color: rgba(128, 128, 128, 0.658);
+
+}
+.p7{
+    font-size: 50px;
+text-align: center;
+margin-top: 15px;
+color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p8{
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+.p9{
+    margin-top: 20px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.p10{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.but{
+color: white;
+background-color: black;
+margin-top: 35px;
+text-align: center;
+font-size: 18px;
+}
+.div18{
+    width: 100vw;
+    height:65vh;
+    border: 1.5px solid green;
+    display: flex;
+    /* background-color: black; */
+    
+}
+.div19{
+    height: 55vh;
+    width: 45vw;
+    border: 1px solid red;
+    margin-top: 20px;
+}
+.div20{
+    height: 55vh;
+    width: 20vw;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.div21{
+    height: 55vh;
+    width: 35vw;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.p11{
+font-size: 20px;
+color: white;
+}
+.hi{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
+p{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.by{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
