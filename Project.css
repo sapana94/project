@@ -120,7 +120,7 @@ h1 {
 .p6{
     font-size: 19px;
 }
-.div14{
+/* .div14{
     height: 17vh;
     width:100vw ;
     border: 1px solid purple;
@@ -182,7 +182,7 @@ font-size: 18px;
     height:65vh;
     border: 1.5px solid green;
     display: flex;
-    /* background-color: black; */
+    background-color: black;
     
 }
 .div19{
@@ -221,4 +221,7 @@ p{
   font-size: 30px;
   text-align: center;
   margin-top: 20px;
+} */
+.div14{
+  margin: 0;
 }
