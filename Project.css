@@ -120,108 +120,67 @@ h1 {
 .p6{
     font-size: 19px;
 }
-/* .div14{
-    height: 17vh;
-    width:100vw ;
-    border: 1px solid purple;
-    display: flex;
+
+
+footer{
+  display: flex;
 }
-.div15{
-    height: 100px;
-    width: 35vw;
-    border: 1px solid red;
-    padding-left: 10px;
-    background-color: rgba(0, 0, 0, 0.886);
-    
-}
-.div16{
-    height: 100px;
-    width: 50vw;
-    border: 1px solid green;
-    background-color: rgba(128, 128, 128, 0.658);
-}
-.div17{
-    height: 100px;
-    width: 15vw;
-    border: 1px solid brown;
-    background-color: rgba(128, 128, 128, 0.658);
+
+.f-left{
+  background-color: black;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content:baseline; */
+  align-items: end;
+  padding: 20px 30px  30px 5px;
 
 }
-.p7{
-    font-size: 50px;
-text-align: center;
-margin-top: 15px;
-color: white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+.f-left>h2{
+  font-size: 60px;
+  color: white;
+
 }
-.p8{
-    text-align: center;
-    font-size: 12px;
-    color: white;
+.f-left>h6{
+  /* font-size: 60px;  */
+  color: white;
+
 }
-.p9{
-    margin-top: 20px;
-    font-size: 30px;
-    color: black;
-    text-align: center;
+
+
+.f-right{
+  background-color: rgb(237,240,243);
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
 }
-.p10{
-    font-size: 30px;
-    color: black;
-    text-align: center;
-}
-.but{
-color: white;
-background-color: black;
-margin-top: 35px;
-text-align: center;
-font-size: 18px;
-}
-.div18{
-    width: 100vw;
-    height:65vh;
-    border: 1.5px solid green;
-    display: flex;
-    background-color: black;
-    
-}
-.div19{
-    height: 55vh;
-    width: 45vw;
-    border: 1px solid red;
-    margin-top: 20px;
-}
-.div20{
-    height: 55vh;
-    width: 20vw;
-    border: 1px solid black;
-    margin-top: 20px;
-}
-.div21{
-    height: 55vh;
-    width: 35vw;
-    border: 1px solid black;
-    margin-top: 20px;
-}
-.p11{
-font-size: 20px;
-color: white;
-}
-.hi{
+
+.f-right>h4{
   font-size: 30px;
-  text-align: center;
-  margin-top: 20px;
+
 }
-p{
-  text-align: center;
-  margin-top: 20px;
-  font-size: 20px;
+
+.f-right>button{
+  background-color: black;
+  color: white;
+  padding: 5px 10px 5px 10px;
+
 }
-.by{
-  font-size: 30px;
-  text-align: center;
-  margin-top: 20px;
-} */
-.div14{
-  margin: 0;
+
+
+.footer{
+  display: grid;
+  gap: 40px;
+  grid-template-columns: repeat(3, minmax(20px, 100%));
+  height: auto  ;
+  width: 100%;
+}
+.footer>.first{
+  /* width: 130%; */
+  padding: 10px 20px 10px 20px;
+/* width: 450px; */
 }
